@@ -1,1 +1,1 @@
-# ArcoLinux-config for qtile
+# ArcoLinux-config
